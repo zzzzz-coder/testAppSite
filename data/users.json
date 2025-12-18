@@ -4,14 +4,14 @@
     "secondName": "aaa",
     "age": 25,
     "email": "ivan@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "./img/icon.png"
   },
   {
     "firstname": "Анна",
     "secondName": "aaa",
     "age": 30,
     "email": "anna@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "./img/icon.png"
   },
   {
     "firstname": "sdfsdf",
