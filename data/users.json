@@ -11,7 +11,7 @@
     "secondName": "aaa",
     "age": 30,
     "email": "anna@mail.com",
-    "avatar": "./testAppSite/img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   },
   {
     "firstname": "sdfsdf",
@@ -25,69 +25,69 @@
     "secondName": "dfgdfghdfh",
     "age": 30,
     "email": "anna@mail.com",
-    "avatar": "testAppSite/img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   },
   {
     "firstname": "gjfjgfjhd",
     "secondName": "sdfsdgs",
     "age": 30,
     "email": "anna@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   },
   {
     "firstname": "Анна",
     "secondName": "aaa",
     "age": 30,
     "email": "anna@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   },
   {
     "firstname": "sdfsdf",
     "secondName": "aafdhcvha",
     "age": 33,
     "email": "fdghdjfgjsgg@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   },
   {
     "firstname": "hfgjgfdhsd",
     "secondName": "dfgdfghdfh",
     "age": 30,
     "email": "anna@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   },
   {
     "firstname": "gjfjgfjhd",
     "secondName": "sdfsdgs",
     "age": 30,
     "email": "anna@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   },
   {
     "firstname": "Анна",
     "secondName": "aaa",
     "age": 30,
     "email": "anna@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   },
   {
     "firstname": "sdfsdf",
     "secondName": "aafdhcvha",
     "age": 33,
     "email": "fdghdjfgjsgg@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   },
   {
     "firstname": "hfgjgfdhsd",
     "secondName": "dfgdfghdfh",
     "age": 30,
     "email": "anna@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   },
   {
     "firstname": "gjfjgfjhd",
     "secondName": "sdfsdgs",
     "age": 30,
     "email": "anna@mail.com",
-    "avatar": "../img/icon.png"
+    "avatar": "/testAppSite/img/icon.png"
   }
 ]
